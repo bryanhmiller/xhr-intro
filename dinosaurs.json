@@ -1,0 +1,23 @@
+{
+	"dinosaurs": [
+		{
+			"name": "Rex",
+			"type": "T-Rex",
+			"food": "smaller dinosaurs",
+			"url": "http://www.squishable.com/mm5/graphics/00000001/t-rex.jpg"
+		},
+		{
+			"name": "Rex",
+			"type": "T-Rex",
+			"food": "smaller dinosaurs",
+			"url": "http://www.squishable.com/mm5/graphics/00000001/t-rex.jpg"
+		},
+		{
+			"name": "Rex",
+			"type": "T-Rex",
+			"food": "smaller dinosaurs",
+			"url": "http://www.squishable.com/mm5/graphics/00000001/t-rex.jpg"
+		}
+	]
+}
+
