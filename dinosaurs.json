@@ -7,16 +7,16 @@
 			"url": "http://www.squishable.com/mm5/graphics/00000001/t-rex.jpg"
 		},
 		{
-			"name": "Rex",
-			"type": "T-Rex",
-			"food": "smaller dinosaurs",
-			"url": "http://www.squishable.com/mm5/graphics/00000001/t-rex.jpg"
+			"name": "Velociraptor",
+			"type": "IDK",
+			"food": "slower dinosaurs",
+			"url": "http://orig03.deviantart.net/b5e8/f/2016/173/a/9/feathered_velociraptor_plushie_patterns_by_isismasshiro-da76n4m.jpg"
 		},
 		{
-			"name": "Rex",
-			"type": "T-Rex",
-			"food": "smaller dinosaurs",
-			"url": "http://www.squishable.com/mm5/graphics/00000001/t-rex.jpg"
+			"name": "Stegosaurus",
+			"type": "IDK",
+			"food": "smaller slower dinosaurs",
+			"url": "https://i.ytimg.com/vi/633OgEaFbDk/maxresdefault.jpg"
 		}
 	]
 }
